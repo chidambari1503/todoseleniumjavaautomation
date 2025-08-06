@@ -1,0 +1,18 @@
+
+Acceptance Criteria
+1.Add Todo
+User can add a new todo by typing in the input field and pressing "Enter".
+Find the count items left
+2.Mark Todo as Complete
+User can mark a todo as completed by clicking the checkbox next to the item.
+Completed todos should be shown with a strikethrough.
+3.Filter Todos
+User can filter todos using "All", "Active", and "Completed" links.
+4.Clear Completed
+User can clear all completed todos using the "Clear completed" button.
+5.Toggle All
+User can mark all todos as completed or active using the toggle-all checkbox.
+6.Delete Todo
+ User can delete a todo using the "X" button next to the item.
+7.Edit Todo
+User can edit an existing todo by double-clicking the label.
